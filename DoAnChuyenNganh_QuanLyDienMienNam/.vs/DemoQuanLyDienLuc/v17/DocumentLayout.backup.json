@@ -1,0 +1,687 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\gui_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\gui_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\momotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\momotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\ghidien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\ghidien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|d:\\onedrive - anime and kpop company\\\u0111\u1ED3 \u00E1n\\doanchuyennganh_quanlydienmiennam\\doanchuyennganh_quanlydienmiennam\\demoquanlydienluc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\ghidien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\ghidien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\mahoamatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\mahoamatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\kiemdinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\kiemdinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\hethongdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\hethongdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\xulytrehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\xulytrehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\xulysuco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\xulysuco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\mahoamatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\mahoamatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\xulytrehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\xulytrehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\xulysuco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\xulysuco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\xulysuco.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\xulysuco.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\kiemdinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\kiemdinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\phancong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\phancong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\hethongdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\hethongdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\thongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\thongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\demoquanlydienluc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98712ED2-9946-40FA-A736-B847D67760D5}|DemoQuanLyDienLuc\\DemoQuanLyDienLuc.csproj|solutionrelative:demoquanlydienluc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\DBConnect.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DBConnect.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\DBConnect.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:39:51.817Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TrangChu.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\TrangChu.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TrangChu.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\TrangChu.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:35:40.544Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_khachhang.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAIwCwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:45:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUI_khachhang.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\GUI_khachhang.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\GUI_khachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:05:56.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\HoaDon.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HoaDon.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\HoaDon.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAkwMYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUI_khachhang.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.Designer.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\GUI_khachhang.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GUI_khachhang.Designer.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\GUI_khachhang.Designer.cs",
+              "ViewState": "AgIAAP0CAAAAAAAAAAD4vxEDAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:11:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MomoTest.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MomoTest.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\MomoTest.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MomoTest.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\MomoTest.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:39:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\HoaDon.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HoaDon.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:08.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GhiDien.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GhiDien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\GhiDien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GhiDien.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\GhiDien.cs",
+              "ViewState": "AgIAAE4DAAAAAAAAAAAAAHoDAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:57:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\NhanVien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\NhanVien.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\NhanVien.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAMwJQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:51:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TrangChu.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\TrangChu.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TrangChu.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:47:10.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GhiDien.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GhiDien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\GhiDien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\GhiDien.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\GhiDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:05:55.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\ThongKe.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:54:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhanCong.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\PhanCong.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\PhanCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:42:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\NhanVien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\NhanVien.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:47:35.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaHoaMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MaHoaMatKhau.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\MaHoaMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:02:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\KhachHang.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KhachHang.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:39:34.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KiemDinh.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KiemDinh.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\KiemDinh.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KiemDinh.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\KiemDinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:39:35.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HeThongDien.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HeThongDien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\HeThongDien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HeThongDien.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\HeThongDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:47:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaoTaiKhoan.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:43:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaoTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\TaoTaiKhoan.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\TaoTaiKhoan.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\TaoTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:39:43.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\DangNhap.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:49:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\DangNhap.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\DangNhap.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\DangNhap.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:41:04.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XuLyTreHan.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLyTreHan.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\XuLyTreHan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:48:57.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaHoaMatKhau.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\MaHoaMatKhau.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:03:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "XuLySuCo.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\XuLySuCo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:48:52.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\PasswordHasher.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PasswordHasher.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:46:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "XuLyTreHan.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\XuLyTreHan.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:02:33.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\ThongKe.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\ThongKe.cs",
+              "ViewState": "AgIAAPUBAAAAAAAAAADwvwwCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:55:49.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "XuLySuCo.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\XuLySuCo.cs",
+              "ViewState": "AgIAALQBAAAAAAAAAAAewMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:26:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XuLySuCo.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.Designer.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\XuLySuCo.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\XuLySuCo.Designer.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\XuLySuCo.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwIICAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:23:26.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\App.config",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\App.config",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\App.config",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-26T13:15:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Dashboard.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\Dashboard.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Dashboard.cs [Design]",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:00.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\packages.config",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\packages.config",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\packages.config",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-26T20:15:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KiemDinh.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KiemDinh.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\KiemDinh.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\KiemDinh.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\KiemDinh.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwIoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:34:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PhanCong.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.Designer.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\PhanCong.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.Designer.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\PhanCong.Designer.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAnwFkBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:22:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\PhanCong.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\PhanCong.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\PhanCong.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAuwNYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:44:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HeThongDien.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HeThongDien.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\HeThongDien.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\HeThongDien.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\HeThongDien.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAAwHEBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:21:04.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Program.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\Program.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Program.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:15:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ThongKe.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\ThongKe.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\ThongKe.Designer.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\ThongKe.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAewAUBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:33:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Dashboard.cs",
+              "RelativeDocumentMoniker": "DemoQuanLyDienLuc\\Dashboard.cs",
+              "ToolTip": "D:\\OneDrive - Anime And Kpop Company\\\u0110\u1ED2 \u00C1N\\DoAnChuyenNganh_QuanLyDienMienNam\\DoAnChuyenNganh_QuanLyDienMienNam\\DemoQuanLyDienLuc\\Dashboard.cs",
+              "RelativeToolTip": "DemoQuanLyDienLuc\\Dashboard.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:36:00.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

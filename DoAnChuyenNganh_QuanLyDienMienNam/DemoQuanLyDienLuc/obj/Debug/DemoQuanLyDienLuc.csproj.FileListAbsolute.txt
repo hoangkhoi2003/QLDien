@@ -1,0 +1,1154 @@
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\DuyTapCode\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+C:\Users\admin\OneDrive\Máy tính\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\DACN\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DemoQuanLyDienLuc9_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\17_10\DemoQuanLyDienLuc\DemoQuanLyDienLuc\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN_29_10\DemoQuanLyDienLuc\23_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCongKhuVuc.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DuyetHeThong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCongKhuVuc.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CopyComplete
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCongKhuVuc.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\29_10\29_10\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCongKhuVuc.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCongKhuVuc.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN\7-11\6_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DACN\MoiNhat\15_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\22-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\26-11\21_11_TDuy_HCM\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DACN26_11\27_11\27-11\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh\27-11_Dafix\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\TRUONG DUY\Desktop\DACN_26_11\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhieuGhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DACN_7_12\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.ThongKe.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libHarfBuzzSharp.dylib
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libSkiaSharp.dylib
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Drawing.Common.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DACN_7_12\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libSkiaSharp.dylib
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Drawing.Common.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.ThongKe.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+C:\Users\Truong Duy\Desktop\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libHarfBuzzSharp.dylib
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libSkiaSharp.dylib
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libSkiaSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libHarfBuzzSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libHarfBuzzSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libSkiaSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libSkiaSharp.so
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Drawing.Common.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.ThongKe.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\Destop\DoAnCuoiCung\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libHarfBuzzSharp.dylib
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\libSkiaSharp.dylib
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x86\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libHarfBuzzSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\x64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\arm64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\musl-x64\libSkiaSharp.so
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe.config
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExCSS.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.UI2.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\JsonSubTypes.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\sib_api_v3_sdk.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Drawing.Common.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ClosedXML.Parser.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ExcelNumberFormat.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.Core.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\FubarCoder.RestSharp.Portable.HttpClient.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Guna.Charts.WinForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\HarfBuzzSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\itextsharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OpenTK.GLControl.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\OxyPlot.WindowsForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RBush.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\RestSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\ScottPlot.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SixLabors.Fonts.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\Svg.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Buffers.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Memory.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.AssemblyReference.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.DangNhap.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Dashboard.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GhiDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.GUI_khachhang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HeThongDien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.HoaDon.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KiemDinh.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.NhanVien.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.PhanCong.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.ThongKe.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.Properties.Resources.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.KhachHang.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TaoTaiKhoan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.TrangChu.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLySuCo.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.XuLyTreHan.resources
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.GenerateResource.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuan.65E3477E.Up2Date
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.exe
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.pdb
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BCrypt.Net-Next.dll
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\bin\Debug\BCrypt.Net-Next.xml
+D:\OneDrive - Anime And Kpop Company\ĐỒ ÁN\DoAnChuyenNganh_QuanLyDienMienNam\DoAnChuyenNganh_QuanLyDienMienNam\DemoQuanLyDienLuc\obj\Debug\DemoQuanLyDienLuc.MaHoaMatKhau.resources
